@@ -1,0 +1,36 @@
+{
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-notify": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest"
+  },
+  "name": "dsl-etiquetas",
+  "description": "Ajustes Html",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "fsevents": "^1.2.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiliznas/dsl-etiquetas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiliznas/dsl-etiquetas/issues"
+  },
+  "homepage": "https://github.com/guiliznas/dsl-etiquetas#readme"
+}
